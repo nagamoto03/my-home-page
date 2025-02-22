@@ -1,6 +1,6 @@
 ---
 name: 新機能
-about: 新しく実装する機能のissue
+about: 新しく実装する機能
 title: '[new] 新機能'
 ---
 # 概要
